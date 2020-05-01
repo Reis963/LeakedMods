@@ -62,7 +62,7 @@ This mod allows you to place certain cases in the pouch slot.
 ### Miku-NoHolsterRestriction-1.0.0 - Made by Miku
 This mod makes it so you can have a primary weapon in the pistol and melee weapon slots.
 
-### Randomizzatore-Modbox-1.0.0 - Made by Randomizzatore
+### Randomizzatore-Modbox-1.1.0 - Made by Randomizzatore
 This mod adds a simple container named Modifications case that allows only gun mods inside, magazines exluded.
 Its internal size is 14x14, just like a junkbox.
 Its price is 1000000 roubles on the flea market, or level 2 Mechanic for 7 bitcoins.
@@ -142,3 +142,6 @@ As a general rule a secure container of the same tier will be larger or less com
 
 ### Kiva-AK9-1.0.0 - Made by Kiva
 Threw together a mod to add the AK-9, the AK-100 series derivative chambered in 9x39. The initial receiver assembly is available from the flea market for the low, low price of somewhere probably below ₽9,450 and has parts compatibility with the traditional AK-104. The AKMB series rear-sight is also available, considering the 7.62x39mm US round and the 9x39mm caliber have similar ballistics.
+
+### Rosco-AmmoStacksPlus50PercentDmg-Pen-1.0.0 - Made by Rosco
+from base stats -> +50% damage +50% armor pen, all ammo -- edit of Yasin's work, which added a flat 400 + doubled base armor pen (crazy high) damage... this one is a bit more realistic.

@@ -6,6 +6,20 @@ This folder contains all items related mods for [private]
 ### AssAssIn-Olympus-1.0.3 - Made by AssAssIn
 This mod adds in overpowered armor, magazines with 1000 ammo capacity, overpowered meds, an extra-large backpack, and increases all ammo stacks to 1000.
 
+### AssAssIn-HiddenItems-124r2.1.0- Made by AssAssIn
+heres the hiddenItems mod. its got the helmet flashlight holders and the new silencer. silencer has limited texture, and occasionally show muzzle flash; guessing becuase of incomplete texturing. bundle file for the micro h1 shows a doge so its not in here. and the gasmask creates an unknown "moving error" when buying... its out for now too.
+feel free to play around with these items, but realize they are not yet implemented and might (do) have some issues
+
+### AssAssIn-CleanThermal-124r2.1.0 - Made by AssAssIn
+This mod makes your t-7 thermal vision goggles fullscreen and noise-free (clean).
+Ensure this mod is listed after AllItemsExamined mod in /server/user/configs/mods.json
+
+### AssAssIn-QuickGuns-124r2.1.0 - Made by AssAssIn
+Makes ALL guns have 3 fire modes: single, 3-round burst, full auto.
+Makes ALL guns have fire rate of 2000rpm.
+Makes ALL ammo stack to 1k. Color codes them too.
+This is compatible with my olympus mod, but it does need to be listed after it. by default, this will happen automatically. youre welcome.
+
 ### Blyto-FullFastV1-1.0.0 - Made by Blyto
 Allows the user to attach all Ops-Core Fast MT Accessories.
 
@@ -145,3 +159,6 @@ Threw together a mod to add the AK-9, the AK-100 series derivative chambered in 
 
 ### Rosco-AmmoStacksPlus50PercentDmg-Pen-1.0.0 - Made by Rosco
 from base stats -> +50% damage +50% armor pen, all ammo -- edit of Yasin's work, which added a flat 400 + doubled base armor pen (crazy high) damage... this one is a bit more realistic.
+
+### misscupid-UltraHighDamage7.62x51mm-1.0.0 - Made by misscupid
+A new ultra high damage bullet for r11 and m700. Can be bought on ragfair

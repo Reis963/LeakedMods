@@ -32,3 +32,6 @@ In this mod, the following adjustments have been made:
  NOTE: If you like the approach of the new trader tell me and I throw two other traders with different objects and functions.
 6. Fixed issues where bots remove bosses in spawn locations.
 
+### EliteCheez99-LabScav-1.0.0 - Made by EliteCheez99
+This mod enable the ability to make scav runs in laboratory
+

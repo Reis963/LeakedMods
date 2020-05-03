@@ -6,7 +6,7 @@ This folder contains all items related mods for [private]
 ### AssAssIn-Olympus-1.0.3 - Made by AssAssIn
 This mod adds in overpowered armor, magazines with 1000 ammo capacity, overpowered meds, an extra-large backpack, and increases all ammo stacks to 1000.
 
-### AssAssIn-HiddenItems-124r2.1.0- Made by AssAssIn
+### AssAssIn-HiddenItems-124r2.1.1- Made by AssAssIn
 heres the hiddenItems mod. its got the helmet flashlight holders and the new silencer. silencer has limited texture, and occasionally show muzzle flash; guessing becuase of incomplete texturing. bundle file for the micro h1 shows a doge so its not in here. and the gasmask creates an unknown "moving error" when buying... its out for now too.
 feel free to play around with these items, but realize they are not yet implemented and might (do) have some issues
 

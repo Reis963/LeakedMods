@@ -162,3 +162,32 @@ from base stats -> +50% damage +50% armor pen, all ammo -- edit of Yasin's work,
 
 ### misscupid-UltraHighDamage7.62x51mm-1.0.0 - Made by misscupid
 A new ultra high damage bullet for r11 and m700. Can be bought on ragfair
+
+### misscupid-RemingtonAllienProjectBullet-1.0.1 - Made by misscupid
+This mod provides a super high damage bullet for Remington R11RASS and M700.
+
+### Divinity-BetterLBT6094Slick-1.0.0 - Made by Divinity
+
+This mod makes the LBT 6094 Slick Armor protect both the chest and stomach.
+
+### Divinity-BetterTV110-1.0.0 - Made by Divinity
+
+This mod makes the TV-110 Armored Rig protect both the chest and stomach. 
+
+It also increases the armor level to 5 instead of 4. 
+
+### Divinity-BetterWartechMk3-1.0.0 - Made by Divinity
+
+This mod changes the Wartech MK3 Rig to have larger pouches.
+
+### Divinity-RealisticMedsCaseWeight-1.0.0 - Made by Divinity
+
+This mod changes the Meds Case to a more realistic weight of 5kg.
+
+### Divinity-RealisticThermobagWeight-1.0.0 - Made by Divinity
+
+This mod changes the Mr. Holodilnick thermobag to a more realistic weight of 1kg.
+
+### Divinity-RealisticTHICCItemsCaseWeight-1.0.0 - Made by Divinity
+
+This mod changes the T H I C C Items Case to a more realistic weight of 17kg.

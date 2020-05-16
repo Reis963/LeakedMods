@@ -11,7 +11,7 @@ Carefully read the mod readme when you're setting it up
 
 This mod make the game more hardcore by removing all traders, removes the ability to insure and repair, disables the flea market, and removes everything from the profile
 
-### NoHurry-EasyMode-1.0.0
+### NoHurry-EasyMode-1.1.0
 The mod does the following:
 - max level
 - max money
@@ -20,6 +20,7 @@ The mod does the following:
 - max hideout areas
 - all cloths
 - ragfair unlocked
+- Maxed traders standing
 
 ### Psifour-DisableScav-1.0.0
 Disables using scavs on any map. 
@@ -45,5 +46,14 @@ ModTarkol is a fusion of different mods, which modify the gaming experience:
 5. Hardcore profile (you can replace your old profile if you are in version 0.12.3_R23.1. 1)launch the mod 2)copy and paste your old profile into user/profiles)
 6. Ragfair is activated at level 15.
 
-### Sorata-TerraGroupSpecialist-1.0.0
+### Sorata-TerraGroupSpecialist-1.2.0
 This mod adds a complete storyline quest based with new traders and new items with it
+The mod is adding new level caps too
+
+### Saaly-Hardcore-1.0.0
+Blocked traders and Fleamarket
+New trader who only exchanges items
+All profiles are:
+      · Melee weapon
+      · Secure container (keys and money only)
+Increasing the trader's level, but no task

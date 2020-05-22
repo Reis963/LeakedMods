@@ -202,3 +202,9 @@ This mod allows you to change the class of armor by replacing armor plates.
 
 ### Divinity-PerfectMagBox-1.0.0
 This mod makes the Magazine Case have an additional horizontal row, so that it can fit another row of 1x2 magazines and not have to rotate them. 
+
+### ByteHammer-NerdVisionGoggles-1.0.0
+NerdVisionGoggles is the same as my NightVisionThermalMod except it has a different color palette. All it needs is throwable glowsticks. Example below: https://cdn.discordapp.com/attachments/681164402921177138/712410140875161681/unknown.png
+
+### ByteHammer-NightVisionThermal-1.0.0
+This mod expands upon AssAssIn's clean thermals by making T-7 thermals function as NVGs as well. It allows you to see light and shadow, enhances the light level, and allows you to see textures (instead of just their heat content), all while keeping the pop of thermal highlighting. exemple: https://cdn.discordapp.com/attachments/681164402921177138/712093373477159012/unknown.png

@@ -23,7 +23,7 @@ function genericCacher(cachename, filepathNode, output = "") {
             case "items.json":
                 fileName = fileData._id;
                 base.data[fileName] = fileData;
-                ileData._props.ExaminedByDefault = true;
+                fileData._props.ExaminedByDefault = true;
                 fileData._props.Weight = 0;
             break;
 

@@ -208,3 +208,6 @@ NerdVisionGoggles is the same as my NightVisionThermalMod except it has a differ
 
 ### ByteHammer-NightVisionThermal-1.0.0
 This mod expands upon AssAssIn's clean thermals by making T-7 thermals function as NVGs as well. It allows you to see light and shadow, enhances the light level, and allows you to see textures (instead of just their heat content), all while keeping the pop of thermal highlighting. exemple: https://cdn.discordapp.com/attachments/681164402921177138/712093373477159012/unknown.png
+
+### 2thgun-LegProtection-1.0.1
+It adds leg protection to all armour above class 4

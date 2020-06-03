@@ -1,0 +1,288 @@
+{
+	"items": [
+		{
+			"_id": "5c6687d65e9d882c8841f0fd",
+			"_tpl": "55d7217a4bdc2d86028b456d"
+		},
+		{
+			"_id": "5c6687d65e9d882c8841f121",
+			"_tpl": "557ffd194bdc2d28148b457f",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "Pockets"
+		},
+		{
+			"_id": "5c6687d65e9d882c8841f0fc",
+			"_tpl": "566abbc34bdc2d92178b4576"
+		},
+		{
+			"_id": "5c6687d65e9d882c8841f0ff",
+			"_tpl": "5963866b86f7747bfa1c4462"
+		},
+		{
+			"_id": "5c6687d65e9d882c8841f0fe",
+			"_tpl": "5963866286f7747bf429b572"
+		},
+		{
+			"_id": "B516715519505516Z1GsRhbv",
+			"_tpl": "5ca20abf86f77418567a43f2",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "TacticalVest"
+		},
+		{
+			"_id": "I210105358799052787n2sH2",
+			"_tpl": "5cc82d76e24e8d00134b4b83",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "FirstPrimaryWeapon"
+		},
+		{
+			"_id": "MagazineWeaponScav3462",
+			"_tpl": "5cc70093e4a949033c734312",
+			"parentId": "I210105358799052787n2sH2",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "AmmoMag18827",
+			"_tpl": "5cc80f79e4a949033c7343b2",
+			"parentId": "MagazineWeaponScav3462",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 50
+			}
+		},
+		{
+			"_id": "I21010535866098720233eFQ",
+			"_tpl": "5cebec10d7f00c065703d185",
+			"parentId": "I210105358799052787n2sH2",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "I210105352664215710GntNE",
+			"_tpl": "5cc700ede4a949033c734315",
+			"parentId": "I210105358799052787n2sH2",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "I210105355681079849OH51S",
+			"_tpl": "5cc701aae4a949000e1ea45c",
+			"parentId": "I210105358799052787n2sH2",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "I210105357423220190cQoUY",
+			"_tpl": "5cc6ea78e4a949000e1ea3c1",
+			"parentId": "I210105358799052787n2sH2",
+			"slotId": "mod_charge"
+		},
+		{
+			"_id": "I210105356901930124gCREe",
+			"_tpl": "5cc700cae4a949035e43ba72",
+			"parentId": "I21010535866098720233eFQ",
+			"slotId": "mod_stock_000"
+		},
+		{
+			"_id": "I210105358240384639Wab6b",
+			"_tpl": "5a33b2c9c4a282000c5a9511",
+			"parentId": "I210105352664215710GntNE",
+			"slotId": "mod_scope"
+		},
+		{
+			"_id": "I210105352685584555oAcQd",
+			"_tpl": "5cc82796e24e8d000f5859a8",
+			"parentId": "I210105355681079849OH51S",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "I210105358672275355W04Gx",
+			"_tpl": "5a32aa8bc4a2826c6e06d737",
+			"parentId": "I210105358240384639Wab6b",
+			"slotId": "mod_scope",
+			"upd": {
+				"Sight": {
+					"SelectedSightMode": 0
+				}
+			}
+		},
+		{
+			"_id": "FuckYouUnlimitedAmmo952633",
+			"_tpl": "5857a8bc2459772bad15db29",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "SecuredContainer"
+		},
+		{
+			"_id": "iHateThatShit738108",
+			"_tpl": "5cc80f8fe4a949033b0224a2",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit684294",
+			"_tpl": "5cc86840d7f00c002412c56c",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit393535",
+			"_tpl": "5cc80f53e4a949000e1ea4f8",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit792239",
+			"_tpl": "5cc80f53e4a949000e1ea4f8",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit204273",
+			"_tpl": "5cc80f79e4a949033c7343b2",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit463876",
+			"_tpl": "5cc80f8fe4a949033b0224a2",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit6407",
+			"_tpl": "5cc80f8fe4a949033b0224a2",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit492422",
+			"_tpl": "5cc80f38e4a949001152b560",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "iHateThatShit908527",
+			"_tpl": "5cc86840d7f00c002412c56c",
+			"parentId": "FuckYouUnlimitedAmmo952633",
+			"slotId": "main",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "B516718017890109oxx8OWNk",
+			"_tpl": "57e26fc7245977162a14b800",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "Scabbard"
+		},
+		{
+			"_id": "B516716021045899VHOlSNbh",
+			"_tpl": "5bd06f5d86f77427101ad47c",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "FaceCover"
+		},
+		{
+			"_id": "B516714079311750sbDxn6B0",
+			"_tpl": "56e335e4d2720b6c058b456d",
+			"parentId": "5c6687d65e9d882c8841f0fd",
+			"slotId": "Backpack"
+		},
+		{
+			"_id": "BP516718031340877gjegzx7",
+			"_tpl": "5d1b31ce86f7742523398394",
+			"parentId": "B516714079311750sbDxn6B0",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "BP516716943656315uPpnaA4",
+			"_tpl": "5448be9a4bdc2dfd2f8b456a",
+			"parentId": "B516714079311750sbDxn6B0",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "BP516717772194657L8ZJ4KC",
+			"_tpl": "57347cd0245977445a2d6ff1",
+			"parentId": "B516714079311750sbDxn6B0",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "BP516718291722856xa3z9z2",
+			"_tpl": "595cf16b86f77427440c32e2",
+			"parentId": "B516714079311750sbDxn6B0",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 3,
+				"r": "Horizontal"
+			}
+		},
+		{
+			"_id": "Pocket_131043",
+			"_tpl": "5c6161fb2e221600113fbde5",
+			"parentId": "5c6687d65e9d882c8841f121",
+			"slotId": "pocket1",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			},
+			"upd": {
+				"SpawnedInSession": true
+			}
+		},
+		{
+			"_id": "Pocket_540120",
+			"_tpl": "5751a25924597722c463c472",
+			"parentId": "5c6687d65e9d882c8841f121",
+			"slotId": "pocket2",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": "Horizontal"
+			},
+			"upd": {
+				"SpawnedInSession": true
+			}
+		}
+	],
+	"equipment": "5c6687d65e9d882c8841f0fd",
+	"stash": "5c6687d65e9d882c8841f0fc",
+	"questRaidItems": "5c6687d65e9d882c8841f0fe",
+	"questStashItems": "5c6687d65e9d882c8841f0ff",
+	"fastPanel": {}
+}

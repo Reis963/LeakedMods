@@ -11,8 +11,11 @@ This mod add the spanish locale to the game.
 ### Emu-LocaleEsMx-1.0.0
 This mod add the spanish-mexican locale to the game.
 
+### Emu-LocaleIT-1.0.0
+This mod add the Italian locale to the game.
+
 ### Emu-LocalePo-1.0.0
 This mod add the portugese locale to the game.
 
-### Emu-LocaleSe-1.0.0
-This mod add the swedish locale to the game.
+### Emu-LocaleTU-1.0.0
+This mod add the Turkish locale to the game.
